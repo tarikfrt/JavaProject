@@ -215,7 +215,7 @@ public class Main extends javax.swing.JFrame {
         });
 
         jButton00.setFont(new java.awt.Font("Segoe UI Black", 3, 18)); // NOI18N
-        jButton00.setText("6");
+        jButton00.setText(matris[0][0]);
         jButton00.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton00ActionPerformed(evt);
@@ -223,7 +223,7 @@ public class Main extends javax.swing.JFrame {
         });
 
         jButton02.setFont(new java.awt.Font("Segoe UI Black", 3, 18)); // NOI18N
-        jButton02.setText("3");
+        jButton02.setText(matris[0][2]);
         jButton02.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton02ActionPerformed(evt);
@@ -231,7 +231,7 @@ public class Main extends javax.swing.JFrame {
         });
 
         jButton01.setFont(new java.awt.Font("Segoe UI Black", 3, 18)); // NOI18N
-        jButton01.setText("4");
+        jButton01.setText(matris[0][1]);
         jButton01.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton01ActionPerformed(evt);
@@ -239,7 +239,7 @@ public class Main extends javax.swing.JFrame {
         });
 
         jButton10.setFont(new java.awt.Font("Segoe UI Black", 3, 18)); // NOI18N
-        jButton10.setText("9");
+        jButton10.setText(matris[1][0]);
         jButton10.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton10ActionPerformed(evt);
@@ -247,7 +247,7 @@ public class Main extends javax.swing.JFrame {
         });
 
         jButton11.setFont(new java.awt.Font("Segoe UI Black", 3, 18)); // NOI18N
-        jButton11.setText("8");
+        jButton11.setText(matris[1][1]);
         jButton11.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton11ActionPerformed(evt);
@@ -255,7 +255,7 @@ public class Main extends javax.swing.JFrame {
         });
 
         jButton21.setFont(new java.awt.Font("Segoe UI Black", 3, 18)); // NOI18N
-        jButton21.setText("7");
+        jButton21.setText(matris[2][1]);
         jButton21.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton21ActionPerformed(evt);
@@ -263,7 +263,7 @@ public class Main extends javax.swing.JFrame {
         });
 
         jButton20.setFont(new java.awt.Font("Segoe UI Black", 3, 18)); // NOI18N
-        jButton20.setText("5");
+        jButton20.setText(matris[2][0]);
         jButton20.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton20ActionPerformed(evt);
@@ -271,7 +271,7 @@ public class Main extends javax.swing.JFrame {
         });
 
         jButton22.setFont(new java.awt.Font("Segoe UI Black", 3, 18)); // NOI18N
-        jButton22.setText("1");
+        jButton22.setText(matris[2][2]);
         jButton22.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton22ActionPerformed(evt);
@@ -279,7 +279,7 @@ public class Main extends javax.swing.JFrame {
         });
 
         jButton12.setFont(new java.awt.Font("Segoe UI Black", 3, 18)); // NOI18N
-        jButton12.setText("2");
+        jButton12.setText(matris[1][2]);
         jButton12.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton12ActionPerformed(evt);
